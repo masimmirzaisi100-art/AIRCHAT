@@ -6,7 +6,7 @@ Offline P2P Chat tool for Android. Chat with 2 mobiles using WiFi Hotspot. No In
 ## Installation
 
 ```bash
-git clone https://github.com/masimmirzaisi100/AirChat.git
+git clone https://github.com/masimmirzaisi100/AIRCHAT.git
 cd AirChat
 pkg install python -y
 run for your server "python me.py"
